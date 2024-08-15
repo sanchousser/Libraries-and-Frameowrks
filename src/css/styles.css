@@ -1,0 +1,4 @@
+@import './base/reset.css';
+
+@import './base/commom.css';
+@import './components/content.css';
